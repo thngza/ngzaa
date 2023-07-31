@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Nargiza but everbody calls me Nara)
+##### -🌱 I’m currently learning web development and ...
+##### -😄 If it works don't touch )
+##### -📫 How to reach me: naraallambergenova@gmail.com
+
+
 
 <!--
 **ngzaa/ngzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
