@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Nargiza but everbody calls me Nara)
 ##### -🌱 I’m currently learning web development and ...
-##### -😄 If it works don't touch )
 ##### -📫 How to reach me: naraallambergenova@gmail.com
 
 
